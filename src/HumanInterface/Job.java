@@ -1,5 +1,5 @@
 package HumanInterface;
 
 public interface Job {
- void myJobis();
+ void myJobis(2);
 }
